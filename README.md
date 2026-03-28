@@ -1,1 +1,1 @@
-# KittyCattyGo
+# Kitty Catty Go
